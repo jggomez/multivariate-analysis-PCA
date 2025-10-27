@@ -1,12 +1,12 @@
 # Genomics Data Analysis and PCA Strategies
 
-This notebook explores different strategies for handling missing values and performing Principal Component Analysis (PCA) on a genomics dataset to identify patterns related to tumor subtypes.
+This notebook explores strategies for handling missing values and performing Principal Component Analysis (PCA) on a genomics dataset to identify patterns associated with tumor subtypes.
 
 ## Data Loading and Initial Exploration
 
 - Loading the dataset.
 - Initial data shape and preview.
-- Taking a subset of the data (first 200 genes).
+- Evaluate the genes with the most support for variance
 - Checking for missing values.
 
 ## Strategy 1: Simple Imputation (Naive Approach)
