@@ -19,10 +19,11 @@ This notebook explores strategies for handling missing values and performing Pri
 - Visualizing PC1 vs PC2 vs PC3 colored by tumor subtype (static and interactive plots).
 - Conclusions based on Mean Imputation.
   
-<img width="1233" height="547" alt="strategy1-cumulative-explained" src="https://github.com/user-attachments/assets/d15071c1-5456-4191-85ed-a74499f75741" />
-<img width="1616" height="701" alt="strategy1-2" src="https://github.com/user-attachments/assets/a406cfa2-800f-4bcb-bb5c-c0af4a6b4e64" />
-<img width="1001" height="790" alt="strategy1-5" src="https://github.com/user-attachments/assets/392debc0-7a58-46c3-becd-b744f55f49f1" />
-
+<img width="1233" height="547" alt="image" src="https://github.com/user-attachments/assets/1c14e56b-834e-4750-a9b3-615e6f3e3b7e" />
+<img width="3166" height="855" alt="image" src="https://github.com/user-attachments/assets/fef6ff5d-c043-4ff9-ae7c-15b2b0b1cc43" />
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/3d888875-033d-483f-b93a-075224fc26b1" />
+<img width="1001" height="790" alt="image" src="https://github.com/user-attachments/assets/3f5e7380-642e-4119-819e-4c8b1715fc20" />
+<img width="1773" height="525" alt="newplot" src="https://github.com/user-attachments/assets/1248b003-2f88-46c4-951f-83363ed71265" />
 
 ## Strategy 2: Advanced Imputation (Robust Approach)
 
@@ -35,11 +36,12 @@ This notebook explores strategies for handling missing values and performing Pri
 - Visualizing PC1 vs PC2 vs PC3 colored by tumor subtype.
 - Conclusions based on k-NN Imputation.
 
-<img width="1027" height="701" alt="strategy2-1" src="https://github.com/user-attachments/assets/17428867-c026-4274-87cb-76176d01a063" />
-<img width="1233" height="547" alt="strategy2-2" src="https://github.com/user-attachments/assets/0e17d977-7bcc-422a-8228-ad45b02afebc" />
-<img width="1001" height="790" alt="strategy2-6" src="https://github.com/user-attachments/assets/3c0a07d5-07a1-4698-8b7c-849a12966b98" />
-<img width="1508" height="858" alt="Screenshot 2025-10-22 at 7 39 07 p m" src="https://github.com/user-attachments/assets/eeba6eb4-7ce3-48b8-9ebf-9e492f35bc87" />
-
+<img width="1036" height="701" alt="image" src="https://github.com/user-attachments/assets/ab038148-bb4a-41ca-b8ee-02cae3335834" />
+<img width="1233" height="547" alt="image" src="https://github.com/user-attachments/assets/c28fb5e0-fb12-44c2-8008-a3d06bcc1f07" />
+<img width="2004" height="701" alt="image" src="https://github.com/user-attachments/assets/918d2a54-a7f6-4b58-88aa-d686d5d4ac3c" />
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/47e62ad4-ae40-4a3d-8213-847be4d90ac3" />
+<img width="1001" height="790" alt="image" src="https://github.com/user-attachments/assets/58acd0b8-8650-4b48-8ee0-578f282a716e" />
+<img width="1773" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/d9a55e29-89f6-4c21-b327-e07988eee245" />
 
 ## Strategy 3: Integrated PCA (Advanced)
 
@@ -52,15 +54,19 @@ This notebook explores strategies for handling missing values and performing Pri
 - Visualizing PC1 vs PC2 vs PC3 colored by tumor subtype.
 - Conclusions based on NIPALS and PPCA.
 
-<img width="1233" height="547" alt="strategy3-NIPALS-1" src="https://github.com/user-attachments/assets/6d71cac2-b212-4771-86d2-e531183fe26e" />
-<img width="1001" height="790" alt="strategy3-NIPALS-6" src="https://github.com/user-attachments/assets/ea6cac80-65f2-4e7c-ae7a-682eb026d388" />
+### NIPALs
+<img width="1233" height="547" alt="image" src="https://github.com/user-attachments/assets/a6eaa2f9-ab1a-4d70-9b4f-0a49aa815a30" />
+<img width="1616" height="701" alt="image" src="https://github.com/user-attachments/assets/0bbd037c-c2a8-402d-bab9-687666116c49" />
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/be7c6066-5d97-49e5-892e-1e2a7d426e77" />
+<img width="1001" height="790" alt="image" src="https://github.com/user-attachments/assets/892fc76d-0358-4d32-bdb1-aa6df4e0f1b5" />
+<img width="1773" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/905ab55c-67bb-4d57-b6e0-a7221f7f99d1" />
 
-
-<img width="1233" height="548" alt="strategy3-PPCA-1" src="https://github.com/user-attachments/assets/8fbcf022-5a87-4d5b-8f1d-198a187b04d8" />
-
-<img width="1616" height="701" alt="strategy3-PPCA-nuevo" src="https://github.com/user-attachments/assets/025bfc2a-13b3-46a0-805f-e0b75baad03d" />
-
-<img width="1001" height="790" alt="strategy3-PPCA-5" src="https://github.com/user-attachments/assets/e2c50c63-b5ab-477c-a116-38ef438f15e8" />
+### PPCA
+<img width="1233" height="548" alt="image" src="https://github.com/user-attachments/assets/c565b9b1-4d3d-4cda-bfca-2303f1a1da6b" />
+<img width="1616" height="701" alt="image" src="https://github.com/user-attachments/assets/e1659080-1046-412a-94f9-d7595b6a1309" />
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/b651507f-6f32-4860-9f79-7652dbeafd74" />
+<img width="1001" height="790" alt="image" src="https://github.com/user-attachments/assets/3fff1f34-2c08-43cd-a351-eba811fb2eab" />
+<img width="1773" height="525" alt="newplot (3)" src="https://github.com/user-attachments/assets/7bb825d2-f575-4848-9757-9dfea7d037f2" />
 
 
 ## Author
